@@ -12,8 +12,6 @@ import java.util.Map;
 import java.util.ResourceBundle;
 import java.util.Set;
 
-import com.mysql.cj.x.protobuf.Mysqlx.Error;
-
 import db.DbException;
 import gui.listeners.DataChangeListener;
 import gui.util.Alerts;
